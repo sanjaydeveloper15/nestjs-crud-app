@@ -26,13 +26,17 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Project setup
+## Contributors
+
+Sanjay Kumar (@sanjaykumarwebs)
+
+## Project Setup
 
 ```bash
 $ npm install
 ```
 
-## Compile and run the project
+## Compile and Run The Project
 
 ```bash
 # development
@@ -45,7 +49,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Run tests
+## Run Tests
 
 ```bash
 # unit tests
@@ -84,6 +88,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
-## Contributors
-
-- Sanjay Kumar (@sanjaykumarwebs)
